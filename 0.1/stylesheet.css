@@ -93,7 +93,7 @@ div {
 }
 
 .contact {
-    margin: 30px auto;
+    matgin: 20px;
     box-shadow: 5px 5px 5px 5px grey;
 
 }
@@ -101,17 +101,22 @@ div {
 .table {
     background-color: #454545;
     width: 90%;
-    margin: 30px auto;
+    margin: 20px;
 }
 
-.table img {
-    margin: 10px;
+#lets {
+    color: #2b9598;
 }
-.table h2 {
-    border-bottom: 2px solid #454545;
+
+/*.bgimage {
+    background-image: url("images/Programming-Code-l.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 200px;
 }
 
 
+*/
 
 
 
