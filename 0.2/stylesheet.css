@@ -60,24 +60,12 @@ h1 {
     color: #fb9c71;
 }
 
-h4 {
-    color: #fbe5d6;
-}
-
 p {
     color: #fbe5d6;
 }
 
 img {
     width: 25%;
-}
-
-a {
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: none;
 }
 
 #profile {
@@ -107,36 +95,45 @@ div {
 .contact {
     margin: 30px auto;
     box-shadow: 5px 5px 5px 5px grey;
-}
 
-#lets {
-    color: #2b9598;
 }
 
 .table {
     background-color: #454545;
     width: 90%;
-    margin: 0 auto;
+    margin: 30px auto;
 }
 
 .table img {
-    margin: 30px auto;
-    width: 80px;
+    margin: 10px;
+}
+.table h2 {
+    border-bottom: 2px solid #454545;
 }
 
-.table h3 {
-/*    border-bottom: 2px solid #454545;*/
-    color: #2b9598;
-}
 
-.lets {
-    color: #2b9598;
-}
 
-#h4 {
-    float: right;
-    color: #fbe5d6;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
